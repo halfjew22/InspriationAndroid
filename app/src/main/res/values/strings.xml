@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Inspired</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="stay_inspired">Stay Inspired.</string>
+    <string name="show_another">Show Another</string>
+
+</resources>
